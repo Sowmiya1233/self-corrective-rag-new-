@@ -1,0 +1,9 @@
+.env
+venv/
+__pycache__/
+data/*.json
+index/*
+results/*
+!data/.gitkeep
+!index/.gitkeep
+!results/.gitkeep
